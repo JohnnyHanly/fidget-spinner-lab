@@ -1,0 +1,14 @@
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\bin\Debug\netcoreapp2.1\fidget-spinner-lab.deps.json
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\bin\Debug\netcoreapp2.1\fidget-spinner-lab.runtimeconfig.json
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\bin\Debug\netcoreapp2.1\fidget-spinner-lab.runtimeconfig.dev.json
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\bin\Debug\netcoreapp2.1\fidget-spinner-lab.dll
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\bin\Debug\netcoreapp2.1\fidget-spinner-lab.pdb
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.csprojAssemblyReference.cache
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.RazorAssemblyInfo.cache
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.RazorAssemblyInfo.cs
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.AssemblyInfoInputs.cache
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.AssemblyInfo.cs
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.RazorTargetAssemblyInfo.cache
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.dll
+C:\Users\johnn\Desktop\fidget-spinner-lab\backend\obj\Debug\netcoreapp2.1\fidget-spinner-lab.pdb
